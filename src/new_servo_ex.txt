@@ -1,2 +1,2 @@
 1. servo ex update 0820 -1
-2. remove data section
+2. remove data section --> 다시 수정
